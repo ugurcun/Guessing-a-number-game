@@ -22,7 +22,7 @@ def play_game():
   print("Welcome to the number guessing game! ")
   print("I am thinking of a number between 1 and 100 ")    
   computer_guess = guess_number()
-  print(f"the correct answer : {computer_guess}")
+  # print(f"the correct answer : {computer_guess}")
  
   
   difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ")
